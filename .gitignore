@@ -1,0 +1,18 @@
+# Venus / build artifacts
+*.o
+*.out
+*.bin
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*~
+
+# Env
+.env
