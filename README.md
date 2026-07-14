@@ -18,9 +18,9 @@ riscv-assembly-challenge/
 ├── part3_encoding.s             # Part 3: instruction field decoder
 ├── screenshots/                 # Venus output proving each program runs correctly
 └── docs/
-├── ENCODING_WORKSHEET.md    # Hand-worked instruction encodings
-├── PRIVILEGED_SUMMARY.md    # Self-study: privileged architecture
-└── EXTENSION_SUMMARY.md     # Self-study: one RISC-V extension
+     ├── ENCODING_WORKSHEET.md    # Hand-worked instruction encodings
+     ├── PRIVILEGED_SUMMARY.md    # Self-study: privileged architecture
+     └── EXTENSION_SUMMARY.md     # Self-study: one RISC-V extension
 ```
 Each `.s` file is self-contained and can be assembled and run independently in Venus —
 none of them depend on each other.
